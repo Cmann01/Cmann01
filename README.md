@@ -1,7 +1,8 @@
-### Hi there 👋 'm Chinmay Revatgaonkar
+### Hi there 👋 I'm Chinmay Revatgaonkar
 🔭 I’m currently working on ... Job Portal Project,
 - 🌱 I’m currently learning ... Mernstack Development
 - I’m looking for help with ... Internships and Job Opportunities
+- 👨‍💻 Love to learn new technologies and to explore new sets of areas.
 - - 💬 Ask me about ...
 - 📫 How to reach me: ... https://www.linkedin.com/in/chinmay-revatgaonkar-b746b784
 
