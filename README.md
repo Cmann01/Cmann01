@@ -5,7 +5,7 @@
 - 👨‍💻 Love to learn new technologies and to explore new sets of areas.
 - - 💬 Ask me about ...
 - 📫 How to reach me: ... https://www.linkedin.com/in/chinmay-revatgaonkar-b746b784
-
+![Cmann01's Stats](https://github-readme-stats.vercel.app/api?username=Cmann01&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 <!--
 **Cmann01/Cmann01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
